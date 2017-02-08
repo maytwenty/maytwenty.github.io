@@ -1,0 +1,25 @@
+
+title: Sam Ellis CV & Portfolio
+url: 'http://maytwenty.github.io'
+baseurl: '/maytwenty.github.io'
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Sam Ellis
+tagline: Full Stack Developer
+pic: profile.png
+
+#sidebar links
+email: sam@maytwenty.co.uk
+website: maytwenty.github.io
+linkedin: maytwenty
+github: maytwenty
+twitter: '@sam20ellis'
